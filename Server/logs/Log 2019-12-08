@@ -1,9 +1,0 @@
-Log Started: 2019-12-08 18:41:44.421695
-+---------------------------------------+
-18:41:44.426328| Logged: Server Started
-18:41:46.704046| Logged: Client Connected: ('192.168.15.101', 53730)
-18:41:50.166594| Logged: Client Credentials: moti
-18:41:51.188650| Logged: moti: Login Successful
-18:41:55.573395| Logged: moti: Request -> GENERATE REPORT TCH
-18:41:56.981630| Logged: moti: File: Generated Report - /home/vignesh/PycharmProjects/School Project/Server/uploads/wesker - 10A.pdf
-18:42:05.826209| Logged: moti: Request -> CLOSE
