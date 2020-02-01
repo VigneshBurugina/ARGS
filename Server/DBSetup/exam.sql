@@ -1,0 +1,5 @@
+use exam;
+create table fy (admno int,name varchar(30),english float,english_max float,science float,science_max float,math float,math_max float,social float,social_max float,marks_obtained float,total float,percent float,foreign key (admno,name) references info.student(admno,name));
+create table hy (admno int,name varchar(30),english float,english_max float,science float,science_max float,math float,math_max float,social float,social_max float,marks_obtained float,total float,percent float,foreign key (admno,name) references info.student(admno,name));
+create table pa1 (admno int,name varchar(30),english float,english_max float,science float,science_max float,math float,math_max float,social float,social_max float,marks_obtained float,total float,percent float,foreign key (admno,name) references info.student(admno,name));
+create table pa2 (admno int,name varchar(30),english float,english_max float,science float,science_max float,math float,math_max float,social float,social_max float,marks_obtained float,total float,percent float,foreign key (admno,name) references info.student(admno,name));
