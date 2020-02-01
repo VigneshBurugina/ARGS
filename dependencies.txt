@@ -1,0 +1,5 @@
+pypdf2
+xlsxwriter
+xlrd
+pypdftk
+pymysql
