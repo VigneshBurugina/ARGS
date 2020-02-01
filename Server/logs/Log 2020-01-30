@@ -1,8 +1,0 @@
-Log Started: 2020-01-30 13:42:05.044840
-+---------------------------------------+
-13:42:05.049828| Logged: Server Started
-13:42:12.778815| Logged: Client Connected: ('192.168.15.102', 60838)
-13:42:23.315912| Logged: Client Credentials: sam
-13:42:24.326459| Logged: sam: Login Successful
-13:42:27.570114| Logged: sam: Request -> GET REPORT STU
-13:42:35.114768| Logged: sam: Request -> CLOSE
