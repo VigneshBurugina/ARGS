@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 /files/Vignesh/Server/Server.py
+python3 ''#Add path to server.py script

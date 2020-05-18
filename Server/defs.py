@@ -485,8 +485,8 @@ dbhost = dbdat[0].rstrip('\n')
 dbuser = dbdat[1].rstrip('\n')
 dbpas = dbdat[2].rstrip('\n')
 
-email = 'noreply.args@gmail.com'
-email_pass = 'KVExA3amqMbcbpE'
+email = '' #Email-ID to send emails
+email_pass = '' #Password for the email account
 ssl_port = 465
 
 # Network
